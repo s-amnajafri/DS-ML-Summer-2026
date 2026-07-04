@@ -1,7 +1,7 @@
 # 🚀 Data Science → Machine Learning → AI Summer Roadmap
 
 ## 📅 Duration
-June 25 – August 25
+July 4 – September 3
 
 ---
 
@@ -18,9 +18,9 @@ Build strong foundations in Data Science, Machine Learning, and Deep Learning wh
 
 # 📍 PHASE 1 — Python + Pandas Foundations
 
-## Week 1 (June 25 – June 30)
+## Week 1 (July 4 – July 9)
 
-### 📅 June 25 — Python Fundamentals
+### 📅 July 4 — Python Fundamentals
 - Variables  
 - Data Types  
 - Operators  
@@ -29,7 +29,7 @@ Build strong foundations in Data Science, Machine Learning, and Deep Learning wh
 
 ---
 
-### 📅 June 26 — Python Collections
+### 📅 July 5 — Python Collections
 - Lists  
 - Tuples  
 - Dictionaries  
@@ -37,7 +37,7 @@ Build strong foundations in Data Science, Machine Learning, and Deep Learning wh
 
 ---
 
-### 📅 June 27 — Functions & Scope
+### 📅 July 6 — Functions & Scope
 - Functions  
 - Arguments  
 - Return Values  
@@ -45,21 +45,21 @@ Build strong foundations in Data Science, Machine Learning, and Deep Learning wh
 
 ---
 
-### 📅 June 28 — Control Flow
+### 📅 July 7 — Control Flow
 - Loops  
 - Nested Loops  
 - List Comprehensions  
 
 ---
 
-### 📅 June 29 — Python Intermediate
+### 📅 July 8 — Python Intermediate
 - File Handling  
 - Exception Handling  
 - Modules  
 
 ---
 
-### 📅 June 30 — Kaggle Day
+### 📅 July 9 — Kaggle Day
 - Create Kaggle profile  
 - Explore datasets  
 - Download Titanic Dataset  
@@ -75,7 +75,7 @@ Become comfortable writing Python without relying on tutorials.
 
 # 📍 PHASE 2 — Pandas Mastery
 
-## Week 2 (July 2 – July 7)
+## Week 2 (July 11 – July 16)
 
 ### 📚 Resources
 - Kaggle Pandas Course  
@@ -84,7 +84,7 @@ Become comfortable writing Python without relying on tutorials.
 
 ---
 
-### 📅 July 2
+### 📅 July 11
 - Series  
 - DataFrames  
 - Reading CSVs  
@@ -92,7 +92,7 @@ Become comfortable writing Python without relying on tutorials.
 
 ---
 
-### 📅 July 3
+### 📅 July 12
 - loc  
 - iloc  
 - Filtering  
@@ -100,7 +100,7 @@ Become comfortable writing Python without relying on tutorials.
 
 ---
 
-### 📅 July 4
+### 📅 July 13
 - Sorting  
 - Querying  
 - Value Counts  
@@ -108,14 +108,14 @@ Become comfortable writing Python without relying on tutorials.
 
 ---
 
-### 📅 July 5
+### 📅 July 14
 - GroupBy  
 - Multiple Aggregations  
 - Transform  
 
 ---
 
-### 📅 July 6 — Data Cleaning
+### 📅 July 15 — Data Cleaning
 - Missing Values  
 - Duplicates  
 - Data Types  
@@ -123,7 +123,7 @@ Become comfortable writing Python without relying on tutorials.
 
 ---
 
-### 📅 July 7 — Kaggle Day
+### 📅 July 16 — Kaggle Day
 - Titanic EDA Project  
 
 ### 🧠 Practice
@@ -137,39 +137,39 @@ Perform complete analysis on structured datasets.
 
 # 📍 PHASE 3 — Advanced Pandas + NumPy
 
-## Week 3 (July 9 – July 14)
+## Week 3 (July 18 – July 23)
 
 ---
 
-### 📅 July 9 — Advanced Pandas
+### 📅 July 18 — Advanced Pandas
 - Merge  
 - Join  
 - Concat  
 
 ---
 
-### 📅 July 10
+### 📅 July 19
 - Pivot Tables  
 - Crosstabs  
 - MultiIndex  
 
 ---
 
-### 📅 July 11
+### 📅 July 20
 - Melt  
 - Stack  
 - Unstack  
 
 ---
 
-### 📅 July 12 — Time Series
+### 📅 July 21 — Time Series
 - Datetime  
 - Resampling  
 - Rolling Windows  
 
 ---
 
-### 📅 July 13 — NumPy Foundations
+### 📅 July 22 — NumPy Foundations
 - Arrays  
 - Indexing  
 - Slicing  
@@ -177,7 +177,7 @@ Perform complete analysis on structured datasets.
 
 ---
 
-### 📅 July 14 — Kaggle Day
+### 📅 July 23 — Kaggle Day
 - Apply Advanced Pandas  
 
 ### 🧠 Practice
@@ -191,17 +191,17 @@ Become comfortable manipulating complex datasets.
 
 # 📍 PHASE 4 — NumPy + Visualization
 
-## Week 4 (July 16 – July 21)
+## Week 4 (July 25 – July 30)
 
 ---
 
-### 📅 July 16 — NumPy Operations
+### 📅 July 25 — NumPy Operations
 - Broadcasting  
 - Vectorization  
 
 ---
 
-### 📅 July 17 — NumPy Statistics
+### 📅 July 26 — NumPy Statistics
 - Mean  
 - Median  
 - Std  
@@ -209,20 +209,20 @@ Become comfortable manipulating complex datasets.
 
 ---
 
-### 📅 July 18 — Linear Algebra Basics
+### 📅 July 27 — Linear Algebra Basics
 - Matrix Operations  
 - Dot Product  
 
 ---
 
-### 📅 July 19 — Matplotlib
+### 📅 July 28 — Matplotlib
 - Line Plots  
 - Bar Charts  
 - Histograms  
 
 ---
 
-### 📅 July 20 — Seaborn
+### 📅 July 29 — Seaborn
 - Heatmaps  
 - Boxplots  
 - Pairplots  
@@ -230,7 +230,7 @@ Become comfortable manipulating complex datasets.
 
 ---
 
-### 📅 July 21 — Netflix EDA Project
+### 📅 July 30 — Netflix EDA Project
 
 ### 🧠 Practice
 - Pandas LeetCode: 2 Problems  
@@ -243,42 +243,42 @@ Visualize and communicate insights effectively.
 
 # 📍 PHASE 5 — EDA + Power BI
 
-## Week 5 (July 23 – July 28)
+## Week 5 (August 1 – August 6)
 
 ---
 
-### 📅 July 23 — EDA Workflow
+### 📅 August 1 — EDA Workflow
 - Missing Values  
 - Outliers  
 - Correlations  
 
 ---
 
-### 📅 July 24 — Feature Understanding
+### 📅 August 2 — Feature Understanding
 - Data Storytelling  
 - Business Insights  
 
 ---
 
-### 📅 July 25 — Power BI Basics
+### 📅 August 3 — Power BI Basics
 - Interface  
 - Data Loading  
 
 ---
 
-### 📅 July 26 — Power Query
+### 📅 August 4 — Power Query
 - Cleaning  
 - Transformations  
 
 ---
 
-### 📅 July 27 — Power BI Dashboards
+### 📅 August 5 — Power BI Dashboards
 - Visuals  
 - Relationships  
 
 ---
 
-### 📅 July 28 — Power BI Sales Dashboard Project
+### 📅 August 6 — Power BI Sales Dashboard Project
 
 ### 🎯 Weekly Goal
 Build professional dashboards and perform complete EDA.
@@ -287,42 +287,42 @@ Build professional dashboards and perform complete EDA.
 
 # 📍 PHASE 6 — Machine Learning Foundations
 
-## Week 6 (July 30 – August 4)
+## Week 6 (August 8 – August 13)
 
 ---
 
-### 📅 July 30 — ML Fundamentals
+### 📅 August 8 — ML Fundamentals
 - Supervised Learning  
 - Unsupervised Learning  
 - Workflow  
 
 ---
 
-### 📅 July 31 — Scikit-Learn
+### 📅 August 9 — Scikit-Learn
 - Datasets  
 - Pipelines  
 - Train/Test Split  
 
 ---
 
-### 📅 August 1 — Preprocessing
+### 📅 August 10 — Preprocessing
 - Scaling  
 - Encoding  
 
 ---
 
-### 📅 August 2 — Linear Regression
+### 📅 August 11 — Linear Regression
 
 ---
 
-### 📅 August 3 — Model Evaluation
+### 📅 August 12 — Model Evaluation
 - MSE  
 - RMSE  
 - R²  
 
 ---
 
-### 📅 August 4 — House Price Prediction Project
+### 📅 August 13 — House Price Prediction Project
 
 ### 🧠 Deep-ML
 - 3 ML Problems  
@@ -334,21 +334,21 @@ Build and evaluate regression models.
 
 # 📍 PHASE 7 — Classification
 
-## Week 7 (August 6 – August 11)
+## Week 7 (August 15 – August 20)
 
 ---
 
-### 📅 August 6 — Logistic Regression
+### 📅 August 15 — Logistic Regression
 
-### 📅 August 7 — Decision Trees
+### 📅 August 16 — Decision Trees
 
-### 📅 August 8 — Random Forests
+### 📅 August 17 — Random Forests
 
-### 📅 August 9 — KNN
+### 📅 August 18 — KNN
 
 ---
 
-### 📅 August 10 — Classification Metrics
+### 📅 August 19 — Classification Metrics
 - Accuracy  
 - Precision  
 - Recall  
@@ -357,7 +357,7 @@ Build and evaluate regression models.
 
 ---
 
-### 📅 August 11 — Kaggle Classification Competition
+### 📅 August 20 — Kaggle Classification Competition
 
 ### 🧠 Deep-ML
 - 3 ML Problems  
@@ -369,36 +369,36 @@ Master classification algorithms.
 
 # 📍 PHASE 8 — Advanced Machine Learning
 
-## Week 8 (August 13 – August 18)
+## Week 8 (August 22 – August 27)
 
 ---
 
-### 📅 August 13 — Support Vector Machines
+### 📅 August 22 — Support Vector Machines
 
-### 📅 August 14 — Naive Bayes
+### 📅 August 23 — Naive Bayes
 
 ---
 
-### 📅 August 15 — Clustering
+### 📅 August 24 — Clustering
 - K-Means  
 - Hierarchical Clustering  
 - DBSCAN  
 
 ---
 
-### 📅 August 16 — Dimensionality Reduction
+### 📅 August 25 — Dimensionality Reduction
 - PCA  
 - t-SNE  
 
 ---
 
-### 📅 August 17 — Hyperparameter Tuning
+### 📅 August 26 — Hyperparameter Tuning
 - GridSearchCV  
 - RandomizedSearchCV  
 
 ---
 
-### 📅 August 18 — Movie Recommendation System Project
+### 📅 August 27 — Movie Recommendation System Project
 
 ### 🧠 Deep-ML
 - 3 Problems  
@@ -410,37 +410,37 @@ Learn advanced ML techniques and recommendation systems.
 
 # 📍 PHASE 9 — Ensemble Learning
 
-## Week 9 (August 20 – August 25)
+## Week 9 (August 29 – September 3)
 
 ---
 
-### 📅 August 20 — Ensemble Methods
+### 📅 August 29 — Ensemble Methods
 - Bagging  
 - Boosting  
 - Stacking  
 
 ---
 
-### 📅 August 21 — XGBoost
+### 📅 August 30 — XGBoost
 
-### 📅 August 22 — LightGBM
+### 📅 August 31 — LightGBM
 
 ---
 
-### 📅 August 23 — Feature Engineering
+### 📅 September 1 — Feature Engineering
 - Polynomial Features  
 - Interaction Features  
 - Feature Selection  
 
 ---
 
-### 📅 August 24 — Model Interpretation
+### 📅 September 2 — Model Interpretation
 - SHAP  
 - LIME  
 
 ---
 
-### 📅 August 25 — Customer Churn Prediction Project
+### 📅 September 3 — Customer Churn Prediction Project
 
 ### 🎯 Weekly Goal
 Build powerful ML models using ensemble methods.
