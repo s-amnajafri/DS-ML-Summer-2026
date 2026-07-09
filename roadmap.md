@@ -11,230 +11,242 @@ Build strong foundations in Data Science, Machine Learning, and Deep Learning wh
 ---
 
 ## ⏳ Daily Commitment
-- 3–6+ hours/day  
-- Sunday: Review, catch-up, project work, or rest  
+- 3–6+ hours/day
+- Sunday: Review, catch-up, project work, or rest
 
 ---
 
-# 📍 PHASE 1 — Python + Pandas Foundations
+# 📍 PHASE 1 — Python Foundations
 
 ## Week 1 (July 4 – July 9)
 
 ### 📅 July 4 — Python Fundamentals
-- Variables  
-- Data Types  
-- Operators  
-- Strings  
-- Input/Output  
+- Variables
+- Data Types
+- Operators
+- Strings
+- Input/Output
 
 ---
 
 ### 📅 July 5 — Python Collections
-- Lists  
-- Tuples  
-- Dictionaries  
-- Sets  
+- Lists
+- Tuples
+- Dictionaries
+- Sets
 
 ---
 
 ### 📅 July 6 — Functions & Scope
-- Functions  
-- Arguments  
-- Return Values  
-- Scope  
+- Functions
+- Arguments
+- Return Values
+- Scope
 
 ---
 
 ### 📅 July 7 — Control Flow
-- Loops  
-- Nested Loops  
-- List Comprehensions  
+- Loops
+- Nested Loops
+- List Comprehensions
 
 ---
 
 ### 📅 July 8 — Python Intermediate
-- File Handling  
-- Exception Handling  
-- Modules  
+- File Handling
+- Exception Handling
+- Modules
 
 ---
 
 ### 📅 July 9 — Kaggle Day
-- Create Kaggle profile  
-- Explore datasets  
-- Download Titanic Dataset  
-- Load dataset using Pandas  
+- Create Kaggle profile
+- Explore datasets
+- Install NumPy & Pandas
+- Download Titanic Dataset
 
 ### 🧠 Deep-ML
-- 3–4 Python/NumPy problems  
+- 3–4 Python/NumPy problems
 
 ### 🎯 Weekly Goal
 Become comfortable writing Python without relying on tutorials.
 
 ---
 
-# 📍 PHASE 2 — Pandas Mastery
+# 📍 PHASE 2 — NumPy Foundations
 
 ## Week 2 (July 11 – July 16)
 
 ### 📚 Resources
-- Kaggle Pandas Course  
-- Corey Schafer Pandas Playlist  
-- Pandas for Your Grandpa  
+- Kaggle NumPy Course
+- NumPy Documentation
+- Keith Galli's NumPy tutorial,
 
 ---
 
 ### 📅 July 11
-- Series  
-- DataFrames  
-- Reading CSVs  
-- Basic Exploration  
+- Creating Arrays
+- Array Attributes
+- Data Types
+- Array Creation Methods
 
 ---
 
 ### 📅 July 12
-- loc  
-- iloc  
-- Filtering  
-- Boolean Indexing  
+- Indexing
+- Slicing
+- Boolean Masking
 
 ---
 
 ### 📅 July 13
-- Sorting  
-- Querying  
-- Value Counts  
-- Aggregations  
+- Mathematical Operations
+- Universal Functions (ufuncs)
+- Aggregations
 
 ---
 
 ### 📅 July 14
-- GroupBy  
-- Multiple Aggregations  
-- Transform  
+- Broadcasting
+- Reshaping
+- Concatenation
+- Splitting Arrays
 
 ---
 
-### 📅 July 15 — Data Cleaning
-- Missing Values  
-- Duplicates  
-- Data Types  
-- String Operations  
+### 📅 July 15
+- Random Module
+- Linear Algebra Basics
+- Statistics
 
 ---
 
 ### 📅 July 16 — Kaggle Day
-- Titanic EDA Project  
+- Solve NumPy Exercises
+- Mini NumPy Practice Notebook
 
 ### 🧠 Practice
-- Pandas LeetCode: 3 Problems  
-- Deep-ML: 3 Problems  
+- Deep-ML: 3 Problems
+- NumPy Exercises
+
+### 🎯 Weekly Goal
+Become comfortable manipulating arrays efficiently using NumPy.
+
+---
+
+# 📍 PHASE 3 — Pandas Mastery
+
+## Week 3 (July 18 – July 23)
+
+### 📚 Resources
+- Kaggle Pandas Course
+- Corey Schafer Pandas Playlist
+- Pandas for Your Grandpa
+
+---
+
+### 📅 July 18
+- Series
+- DataFrames
+- Reading CSVs
+- Basic Exploration
+
+---
+
+### 📅 July 19
+- loc
+- iloc
+- Filtering
+- Boolean Indexing
+
+---
+
+### 📅 July 20
+- Sorting
+- Querying
+- Value Counts
+- Aggregations
+
+---
+
+### 📅 July 21
+- GroupBy
+- Multiple Aggregations
+- Transform
+
+---
+
+### 📅 July 22 — Data Cleaning
+- Missing Values
+- Duplicates
+- Data Types
+- String Operations
+
+---
+
+### 📅 July 23 — Kaggle Day
+- Titanic EDA Project
+
+### 🧠 Practice
+- Pandas LeetCode: 3 Problems
+- Deep-ML: 3 Problems
 
 ### 🎯 Weekly Goal
 Perform complete analysis on structured datasets.
 
 ---
 
-# 📍 PHASE 3 — Advanced Pandas + NumPy
-
-## Week 3 (July 18 – July 23)
-
----
-
-### 📅 July 18 — Advanced Pandas
-- Merge  
-- Join  
-- Concat  
-
----
-
-### 📅 July 19
-- Pivot Tables  
-- Crosstabs  
-- MultiIndex  
-
----
-
-### 📅 July 20
-- Melt  
-- Stack  
-- Unstack  
-
----
-
-### 📅 July 21 — Time Series
-- Datetime  
-- Resampling  
-- Rolling Windows  
-
----
-
-### 📅 July 22 — NumPy Foundations
-- Arrays  
-- Indexing  
-- Slicing  
-- Reshaping  
-
----
-
-### 📅 July 23 — Kaggle Day
-- Apply Advanced Pandas  
-
-### 🧠 Practice
-- Pandas LeetCode: 3 Problems  
-- Deep-ML: 3 Problems  
-
-### 🎯 Weekly Goal
-Become comfortable manipulating complex datasets.
-
----
-
-# 📍 PHASE 4 — NumPy + Visualization
+# 📍 PHASE 4 — Advanced Pandas + Visualization
 
 ## Week 4 (July 25 – July 30)
 
 ---
 
-### 📅 July 25 — NumPy Operations
-- Broadcasting  
-- Vectorization  
+### 📅 July 25 — Advanced Pandas
+- Merge
+- Join
+- Concat
 
 ---
 
-### 📅 July 26 — NumPy Statistics
-- Mean  
-- Median  
-- Std  
-- Random Module  
+### 📅 July 26
+- Pivot Tables
+- Crosstabs
+- MultiIndex
 
 ---
 
-### 📅 July 27 — Linear Algebra Basics
-- Matrix Operations  
-- Dot Product  
+### 📅 July 27
+- Melt
+- Stack
+- Unstack
+- Time Series
+- Datetime
+- Resampling
+- Rolling Windows
 
 ---
 
 ### 📅 July 28 — Matplotlib
-- Line Plots  
-- Bar Charts  
-- Histograms  
+- Line Plots
+- Bar Charts
+- Histograms
 
 ---
 
 ### 📅 July 29 — Seaborn
-- Heatmaps  
-- Boxplots  
-- Pairplots  
-- Distribution Plots  
+- Heatmaps
+- Boxplots
+- Pairplots
+- Distribution Plots
 
 ---
 
 ### 📅 July 30 — Netflix EDA Project
 
 ### 🧠 Practice
-- Pandas LeetCode: 2 Problems  
-- Deep-ML: 2 Problems  
+- Pandas LeetCode: 2 Problems
+- Deep-ML: 2 Problems
 
 ### 🎯 Weekly Goal
 Visualize and communicate insights effectively.
@@ -248,33 +260,33 @@ Visualize and communicate insights effectively.
 ---
 
 ### 📅 August 1 — EDA Workflow
-- Missing Values  
-- Outliers  
-- Correlations  
+- Missing Values
+- Outliers
+- Correlations
 
 ---
 
 ### 📅 August 2 — Feature Understanding
-- Data Storytelling  
-- Business Insights  
+- Data Storytelling
+- Business Insights
 
 ---
 
 ### 📅 August 3 — Power BI Basics
-- Interface  
-- Data Loading  
+- Interface
+- Data Loading
 
 ---
 
 ### 📅 August 4 — Power Query
-- Cleaning  
-- Transformations  
+- Cleaning
+- Transformations
 
 ---
 
 ### 📅 August 5 — Power BI Dashboards
-- Visuals  
-- Relationships  
+- Visuals
+- Relationships
 
 ---
 
@@ -292,22 +304,22 @@ Build professional dashboards and perform complete EDA.
 ---
 
 ### 📅 August 8 — ML Fundamentals
-- Supervised Learning  
-- Unsupervised Learning  
-- Workflow  
+- Supervised Learning
+- Unsupervised Learning
+- Workflow
 
 ---
 
 ### 📅 August 9 — Scikit-Learn
-- Datasets  
-- Pipelines  
-- Train/Test Split  
+- Datasets
+- Pipelines
+- Train/Test Split
 
 ---
 
 ### 📅 August 10 — Preprocessing
-- Scaling  
-- Encoding  
+- Scaling
+- Encoding
 
 ---
 
@@ -316,16 +328,16 @@ Build professional dashboards and perform complete EDA.
 ---
 
 ### 📅 August 12 — Model Evaluation
-- MSE  
-- RMSE  
-- R²  
+- MSE
+- RMSE
+- R²
 
 ---
 
 ### 📅 August 13 — House Price Prediction Project
 
 ### 🧠 Deep-ML
-- 3 ML Problems  
+- 3 ML Problems
 
 ### 🎯 Weekly Goal
 Build and evaluate regression models.
@@ -349,18 +361,18 @@ Build and evaluate regression models.
 ---
 
 ### 📅 August 19 — Classification Metrics
-- Accuracy  
-- Precision  
-- Recall  
-- F1  
-- ROC-AUC  
+- Accuracy
+- Precision
+- Recall
+- F1
+- ROC-AUC
 
 ---
 
 ### 📅 August 20 — Kaggle Classification Competition
 
 ### 🧠 Deep-ML
-- 3 ML Problems  
+- 3 ML Problems
 
 ### 🎯 Weekly Goal
 Master classification algorithms.
@@ -380,28 +392,28 @@ Master classification algorithms.
 ---
 
 ### 📅 August 24 — Clustering
-- K-Means  
-- Hierarchical Clustering  
-- DBSCAN  
+- K-Means
+- Hierarchical Clustering
+- DBSCAN
 
 ---
 
 ### 📅 August 25 — Dimensionality Reduction
-- PCA  
-- t-SNE  
+- PCA
+- t-SNE
 
 ---
 
 ### 📅 August 26 — Hyperparameter Tuning
-- GridSearchCV  
-- RandomizedSearchCV  
+- GridSearchCV
+- RandomizedSearchCV
 
 ---
 
 ### 📅 August 27 — Movie Recommendation System Project
 
 ### 🧠 Deep-ML
-- 3 Problems  
+- 3 Problems
 
 ### 🎯 Weekly Goal
 Learn advanced ML techniques and recommendation systems.
@@ -415,9 +427,9 @@ Learn advanced ML techniques and recommendation systems.
 ---
 
 ### 📅 August 29 — Ensemble Methods
-- Bagging  
-- Boosting  
-- Stacking  
+- Bagging
+- Boosting
+- Stacking
 
 ---
 
@@ -428,15 +440,15 @@ Learn advanced ML techniques and recommendation systems.
 ---
 
 ### 📅 September 1 — Feature Engineering
-- Polynomial Features  
-- Interaction Features  
-- Feature Selection  
+- Polynomial Features
+- Interaction Features
+- Feature Selection
 
 ---
 
 ### 📅 September 2 — Model Interpretation
-- SHAP  
-- LIME  
+- SHAP
+- LIME
 
 ---
 
