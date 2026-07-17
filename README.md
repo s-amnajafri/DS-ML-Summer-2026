@@ -46,5 +46,3 @@ All Kaggle submissions are stored in `/Kaggle-Submissions`
 - Continuous improvement
 
 ---
-
-⭐ This repo is updated daily during the summer roadmap.
