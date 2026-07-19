@@ -80,7 +80,8 @@ Become comfortable writing Python without relying on tutorials.
 ### 📚 Resources
 - Kaggle NumPy Course
 - NumPy Documentation
-- Keith Galli's NumPy tutorial,
+- Keith Galli's NumPy tutorial
+- https://www.gormanalysis.com/blog/python-numpy-for-your-grandma/
 
 ---
 
@@ -141,7 +142,7 @@ Become comfortable manipulating arrays efficiently using NumPy.
 ### 📚 Resources
 - Kaggle Pandas Course
 - Corey Schafer Pandas Playlist
-- Pandas for Your Grandpa
+- [Pandas for Your Grandpa](https://www.gormanalysis.com/blog/python-pandas-for-your-grandpa/)
 
 ---
 
